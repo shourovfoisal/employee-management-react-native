@@ -1,3 +1,7 @@
+# Source
+🔴 Let's build a Full Stack Employee Management App with REACT NATIVE using MongoDB, Expo Router!  
+https://www.youtube.com/watch?v=bbizRxjyz64
+
 # Run the Backend 👋
 
 Open the /api folder in the terminal  
